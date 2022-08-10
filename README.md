@@ -9,7 +9,7 @@ Video tutorial:
 1. You'll need to have [Node](https://nodejs.org/en/) installed first.
 
 2. ```sh
-   git clone https://github.com/SheepTester/primitive-cloud-server.git
+   git clone https://https://github.com/grapes1234465/primitive-cloud-server.git
    cd primitive-cloud-server
    npm install
    npm start
